@@ -1,4 +1,4 @@
-# 🛒 Demoshopping testing
+# 🔗 API testing
 
 Я протестировал все методы предоставляемые в Swagger: https://intern.demoshopping.ru/api-docs/ и в Postman создал соответствующие коллекции:
  <ul>
